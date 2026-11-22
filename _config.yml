@@ -1,0 +1,11 @@
+title: Atelier Maison Documentation
+description: Official setup, customization, and support guide for the Atelier Maison Shopify theme.
+url: "https://agaafar7.github.io"
+baseurl: "/atelier-maison-docs"
+theme: minima
+markdown: kramdown
+header_pages:
+  - installation.md
+  - customization.md
+  - sections.md
+  - support.md
